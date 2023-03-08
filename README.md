@@ -1,2 +1,3 @@
 # typo3enum
-Directory and file listing for Typo3 CMS
+
+Just some listings created based upon the [Typo3 CMS](https://get.typo3.org/).
